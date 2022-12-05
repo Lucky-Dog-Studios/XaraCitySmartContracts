@@ -1,3 +1,3 @@
-# Xara Cit ySmart Contracts
+# Xara City Smart Contracts
 
 Publicly available smart contacts for Xara City.  
