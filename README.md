@@ -1,2 +1,3 @@
-# XaraCitySmartContracts
-Xara City smart-contracts
+# Xara Cit ySmart Contracts
+
+Publicly available smart contacts for Xara City.  
